@@ -1,1 +1,1 @@
-aws s3 sync . s3:\\xdcfvgfcdx
+aws s3 sync . s3://xdcfvgfcdx
